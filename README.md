@@ -1,9 +1,2 @@
 # test
-a
-b
-c
-d
-tes
-dd
-tt
-ddd
+new deploy sys
